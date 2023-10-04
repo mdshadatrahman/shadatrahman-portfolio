@@ -55,8 +55,8 @@ Menus:
 params:
   title: "Shadat Rahman"
   description: "A passionate mobile app developer. I tend to make use of modern mobile technologies to build apps that looks great, feels fantastic, and functions correctly."
-  staticPath: "assets/"
-  favicon: "assets/shadat.jpg"
+  # staticPath: "" # The path to serve the static files from
+  favicon: "/shadat.jpg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -145,7 +145,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/shadat.jpg"
+    image: "/images/me.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
