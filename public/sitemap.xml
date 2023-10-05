@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shadatrahman.com/categories/</loc>
+    <loc>https://shadatrahman.com/blogs/</loc>
+    <lastmod>2023-10-03T01:37:58+06:00</lastmod>
+  </url><url>
+    <loc>https://shadatrahman.com/blogs/google-maps-flutter_crush/</loc>
+    <lastmod>2023-10-03T01:37:58+06:00</lastmod>
   </url><url>
     <loc>https://shadatrahman.com/</loc>
+    <lastmod>2023-10-03T01:37:58+06:00</lastmod>
+  </url><url>
+    <loc>https://shadatrahman.com/categories/</loc>
   </url><url>
     <loc>https://shadatrahman.com/tags/</loc>
   </url>
