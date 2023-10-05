@@ -128,7 +128,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/Md_Shadat_Rahman.pdf"
+      url: "assets/Md_Shadat_Rahman.pdf"
       download: true
       newPage: false
     socialLinks:
