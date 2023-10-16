@@ -253,9 +253,12 @@ params:
           - "Android"
           - "ios"
 
-      - title: TubeOnAI (Yet to launch)
+      - title: TubeOnAI
         content: TubeOnAI is an AI-powered youtube summarization app that makes it easy and affordable to stay updated with the latest video and saves a lot of time. With TubeOnAI, you can instantly access a library of millions of summarization, all narrated and summarized by high-quality AI.
         image: /images/projects/tubeonai.png
+        featured:
+          name: PlayStore
+          link: https://play.google.com/store/apps/details?id=com.tubeonai.app
         badges:
           - "Flutter"
           - "Android"
