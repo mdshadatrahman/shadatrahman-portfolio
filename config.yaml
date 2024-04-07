@@ -242,23 +242,33 @@ params:
           - "Android"
           - "ios"
 
+      - title: TubeOnAI
+        content: TubeOnAI is an AI-powered youtube summarization app that makes it easy and affordable to stay updated with the latest video and saves a lot of time. With TubeOnAI, you can instantly access a library of millions of summarization, all narrated and summarized by high-quality AI.
+        image: /images/projects/tubeonai.png
+        featured:
+          name: AppStore
+          link: https://apps.apple.com/us/app/tubeonai-summarize-listen/id6451212292
+        badges:
+          - "Flutter"
+          - "ios"
+          - "Android"
+
+      - title: FEMS
+        content: FEMS is a school management application..
+        image: /images/projects/fems.png
+        featured:
+          name: PlayStore
+          link: https://play.google.com/store/apps/details?id=education.fems.mobileapp.fems
+        badges:
+          - "Flutter"
+          - "Android"
+
       - title: Chondo Women's Health Tracker
         content: Chondo is a femtech platform that empowers women to take control of their health and well-being. We offer a variety of resources and tools to help women learn more about their bodies, track their health data, and connect with experts. We believe that by unlearning the stigma and embracing new ways of caring for their bodies, women can lead healthier, happier lives.
         image: /images/projects/chondo.png
         featured:
           name: PlayStore
           link: https://play.google.com/store/apps/details?id=com.chondohealth.periodtracker
-        badges:
-          - "Flutter"
-          - "Android"
-          - "ios"
-
-      - title: TubeOnAI
-        content: TubeOnAI is an AI-powered youtube summarization app that makes it easy and affordable to stay updated with the latest video and saves a lot of time. With TubeOnAI, you can instantly access a library of millions of summarization, all narrated and summarized by high-quality AI.
-        image: /images/projects/tubeonai.png
-        featured:
-          name: PlayStore
-          link: https://play.google.com/store/apps/details?id=com.tubeonai.app
         badges:
           - "Flutter"
           - "Android"
